@@ -67,4 +67,4 @@ erDiagram
 5) View charts in `visualizations/` — replace with Power BI/Tableau dashboards if available.
 
 **Author**
-Yogesh Kumar Motwani · yogesh.m@mailsworks.com · LinkedIn: https://www.linkedin.com/in/yogeshmotwani
+Yogesh Kumar Motwani · yogesh.m@careersmails.com · LinkedIn: https://www.linkedin.com/in/yogeshmotwani
